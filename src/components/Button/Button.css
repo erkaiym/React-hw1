@@ -1,0 +1,39 @@
+.button {
+box-sizing: border-box;
+position: absolute;
+top: 525px;
+
+width: 185px;
+height: 61px;
+
+background: #FFFFFF;
+border: 1px solid #CFADAC;
+border-radius: 6px;
+margin-left: 220px;
+margin-bottom: 500px
+
+}
+
+
+
+.style-p {
+padding-left: 40px;
+width: 91px;
+height: 24px;
+
+/* CTA Hyperlink */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #967675;
+
+}

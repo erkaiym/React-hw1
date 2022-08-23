@@ -1,0 +1,9 @@
+.menu{
+    grid-template-columns: 3fr 1fr 1fr 1fr 1fr 1fr;
+    display: grid;
+    padding-right: 10px;
+    padding: 50px;
+    font-family:'Playfair Display';
+    font-size: 28px;
+    color:black
+}

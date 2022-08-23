@@ -1,0 +1,26 @@
+p{
+    margin: 30px;
+    width: 501px;
+    height: 342px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 102px;
+    line-height: 110px;
+    margin-left: 20px;
+    margin-left: 100px;
+    /* or 108% */
+    
+    
+    /* Dark Copy */
+    
+    color: #23242C;
+}
+
+.content{
+    display: flex;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+      /* justify-content: space-between; */
+    }
